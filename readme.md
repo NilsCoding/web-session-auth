@@ -1,4 +1,4 @@
-# web-session-auth by *by NilsCoding*
+# web-session-auth *by NilsCoding*
 
 *web-session-auth* is a tiny Servlet Filter based authentication system which uses a session value to grant or revoke access.
 
